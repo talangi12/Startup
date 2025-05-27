@@ -1,0 +1,6 @@
+SECRET_KEY="a_very_secret_and_random_string_for_production"
+MONGO_URI="mongodb://localhost:27017/market_match_db"
+# Replace with your actual Twilio credentials
+SMS_ACCOUNT_SID="ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+SMS_AUTH_TOKEN="your_auth_token_here"
+SMS_FROM_NUMBER="+15017122661" # Your Twilio phone number
